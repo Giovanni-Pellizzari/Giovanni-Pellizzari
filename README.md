@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Giovanni-Pellizzari
-- 👀 I’m interested in learning 
-- 🌱 I’m currently learning Java
 - 📫 Contact: giovannipellizzari101gmail.com
 
 <!---
