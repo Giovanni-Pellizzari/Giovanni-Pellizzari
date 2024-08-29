@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Giovanni-Pellizzari
-- 📫 Contact: giovannipellizzari101gmail.com
+- Hi, I’m @Giovanni-Pellizzari
+- Student at the National Technological University FRRe
+- Contact: giovannipellizzari101gmail.com
 
 <!---
 Giovanni-Pellizzari/Giovanni-Pellizzari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
